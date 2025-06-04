@@ -1,19 +1,23 @@
-# Olá, eu sou a Kat! 👋
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=c77dff&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Kat;I'm+a+Systems+Developer)](https://git.io/typing-svg)
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tecnologias que eu uso:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="left">
 
----
+<div align="center">
+  <div align="center flex">
+    <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api?username=katmoraesx&show_icons=true&count_private=true&hide_border=true&title_color=c77dff&icon_color=e0aaff&text_color=2283A2&bg_color=0d1117" alt="Kathelyn Moraes github stats" /> 
+    <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katmoraesx&layout=compact&hide_border=true&title_color=c77dff&text_color=e0aaff&bg_color=0d1117" />
+   </div>
+</div>
 
-## 📈 Estatísticas GitHub:
-![Kat's GitHub stats](https://github-readme-stats.vercel.app/api?username=katmoraesx&show_icons=true&theme=radical)
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-✨ Se quiser ver mais, siga meus projetos!
+ <div align="center"> 
+  <a href="https://instagram.com/katmoraesx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c77dff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kathelyn_andrade23@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
