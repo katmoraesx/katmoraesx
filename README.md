@@ -5,13 +5,6 @@
 
 <div align="left">
 
-<div align="center">
-  <div align="center flex">
-    <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api?username=katmoraesx&show_icons=true&count_private=true&hide_border=true&title_color=c77dff&icon_color=e0aaff&text_color=2283A2&bg_color=0d1117" alt="Kathelyn Moraes github stats" /> 
-    <img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katmoraesx&layout=compact&hide_border=true&title_color=c77dff&text_color=e0aaff&bg_color=0d1117" />
-   </div>
-</div>
-
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <div align="center"> 
